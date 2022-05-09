@@ -1,0 +1,12 @@
+C:\Users\dstim\Desktop\Projekt\vvg.is2.pop.PN\Model.PN\obj\Debug\net6.0-windows\Model.PN.csproj.AssemblyReference.cache
+C:\Users\dstim\Desktop\Projekt\vvg.is2.pop.PN\Model.PN\obj\Debug\net6.0-windows\Model.PN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dstim\Desktop\Projekt\vvg.is2.pop.PN\Model.PN\obj\Debug\net6.0-windows\Model.PN.AssemblyInfoInputs.cache
+C:\Users\dstim\Desktop\Projekt\vvg.is2.pop.PN\Model.PN\obj\Debug\net6.0-windows\Model.PN.AssemblyInfo.cs
+C:\Users\dstim\Desktop\Projekt\vvg.is2.pop.PN\Model.PN\obj\Debug\net6.0-windows\Model.PN.csproj.CoreCompileInputs.cache
+C:\Users\dstim\Desktop\Projekt\vvg.is2.pop.PN\Model.PN\bin\Debug\net6.0-windows\Model.PN.deps.json
+C:\Users\dstim\Desktop\Projekt\vvg.is2.pop.PN\Model.PN\bin\Debug\net6.0-windows\Model.PN.dll
+C:\Users\dstim\Desktop\Projekt\vvg.is2.pop.PN\Model.PN\bin\Debug\net6.0-windows\Model.PN.pdb
+C:\Users\dstim\Desktop\Projekt\vvg.is2.pop.PN\Model.PN\obj\Debug\net6.0-windows\Model.PN.dll
+C:\Users\dstim\Desktop\Projekt\vvg.is2.pop.PN\Model.PN\obj\Debug\net6.0-windows\refint\Model.PN.dll
+C:\Users\dstim\Desktop\Projekt\vvg.is2.pop.PN\Model.PN\obj\Debug\net6.0-windows\Model.PN.pdb
+C:\Users\dstim\Desktop\Projekt\vvg.is2.pop.PN\Model.PN\obj\Debug\net6.0-windows\ref\Model.PN.dll
